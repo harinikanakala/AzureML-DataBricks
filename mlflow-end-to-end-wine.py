@@ -478,7 +478,7 @@ display(new_data)
 # COMMAND ----------
 
 import os
-os.environ["DATABRICKS_TOKEN"] = "dapib93d113efec91ea6143d09d8686721a3-3"
+os.environ["DATABRICKS_TOKEN"] = "your token"
 
 # COMMAND ----------
 
